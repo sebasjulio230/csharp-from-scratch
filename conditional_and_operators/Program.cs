@@ -17,4 +17,4 @@ double b = double.Parse(Console.ReadLine());
 
 Console.WriteLine($"Suma: {a+b}, Resta: {a-b}, Multiplicación: {a*b}, División: {(b!=0 ? a/b : "Indeterminado")}");
 
-
+/*end Operators*/
