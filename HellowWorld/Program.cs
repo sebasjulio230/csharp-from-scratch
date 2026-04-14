@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace HelloWorld
+﻿namespace HelloWorld
 {
      class Program{
 
